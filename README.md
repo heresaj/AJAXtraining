@@ -1,1 +1,2 @@
 # AJAXtraining
+pull test
